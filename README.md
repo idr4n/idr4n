@@ -2,12 +2,14 @@
 
 ---
 
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" alt="JavaScript Logo" width="30" height="30"/></code> <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" alt="TypeScript Logo" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="30" height="30"/></code> <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" alt="Python Logo" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="30" height="30"/></code> <code><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="30" height="30"/></code>
+A self-taught aspiring full-stack developer.
+
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="TailwindCSS" width="30" height="30"/></code> <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="30" height="30"/></code><code> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="30" height="30"/></code>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=idr4n&hide=prs&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Ivan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idr4n&hide=ruby,c&layout=compact&theme=default&hide_border=true" /> |
 | ------------- | ------------- |
 
-You can contact me [here](https://github.com/idr4n/aboutme/issues/new/choose) or find a bit more about me [here](https://github.com/idr4n/aboutme).
+You can reach me [here](https://github.com/idr4n/aboutme/issues/new/choose) or find a bit more about me [here](https://github.com/idr4n/aboutme).
 
 
 <!--
